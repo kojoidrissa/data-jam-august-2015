@@ -1,6 +1,8 @@
 # data-jam-august-2015
 http://www.meetup.com/Houston-Data-Visualization-Meetup/events/224341959/
 
+Original repo: https://github.com/houstondatavis/data-jam-august-2015
+
 Meetup members data (August 2015)
 meetupdata-Aug-08-2015.csv
 Description:
